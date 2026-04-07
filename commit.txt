@@ -1,1 +1,3 @@
 Use this file to test commits
+
+<-- New line to test merge conflict -->
