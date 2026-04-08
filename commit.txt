@@ -2,3 +2,4 @@ Use this file to test commits
 
 <-- New line to test merge conflict -->
 Beginning of conflict
+Line 5
