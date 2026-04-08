@@ -12,3 +12,5 @@ Merge conflict 3 -- REMOTE
 INiTIaTE cOMmIT __ lOCaL
 
 Merge conflict 4 -- REMOTE
+
+Abort merge
