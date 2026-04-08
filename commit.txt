@@ -8,3 +8,5 @@ Line 6
 Merge conflict 2
 
 Merge conflict 3 -- REMOTE
+
+INiTIaTE cOMmIT __ lOCaL
