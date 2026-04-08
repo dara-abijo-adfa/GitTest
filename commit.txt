@@ -13,4 +13,5 @@ INiTIaTE cOMmIT __ lOCaL
 
 Merge conflict 4 -- REMOTE
 
-AbORt NErGE tESt
+ABORT MERGE tESt
+Abort merge
