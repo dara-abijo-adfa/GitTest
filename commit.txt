@@ -15,3 +15,5 @@ Merge conflict 4 -- REMOTE
 
 ABORT MERGE tESt
 Abort merge
+
+Start QA for conflicts
