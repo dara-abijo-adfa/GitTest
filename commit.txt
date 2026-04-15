@@ -23,15 +23,4 @@ Start QA -- REMOTE
 Line 21 -- REMOTE
 Reproduce QA issue
 
-<<<<<<< HEAD
-Start QA apil 14 -- REMOTE
-conflict
-=======
-Start QA Apil 14 -- REMOTE
-<<<<<<< HEAD
-
-
-new conflicts
-=======
->>>>>>> branch 'main' of https://github.com/dara-abijo-adfa/GitTest.git
->>>>>>> branch 'main' of https://github.com/dara-abijo-adfa/GitTest.git
+START QA -- REMOTE
