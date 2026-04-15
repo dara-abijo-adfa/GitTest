@@ -24,3 +24,5 @@ Line 21 -- REMOTE
 Reproduce QA issue
 
 resolve conflicts -- local
+
+Test save prompt and conflicted files guarding -- REMOTE
