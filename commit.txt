@@ -26,3 +26,5 @@ Reproduce QA issue
 resolve conflicts -- local
 
 Test save prompt -- local
+
+Test save prompt and conflicted files guarding -- REMOTE
