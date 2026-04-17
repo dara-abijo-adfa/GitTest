@@ -1,3 +1,5 @@
 TEST FILE FOR eLissa
 
 LOCAL COMMIT TO TEST MERGE CONFLICT
+
+Merge conflict starter -- REMOTE
